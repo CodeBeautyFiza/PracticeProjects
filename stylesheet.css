@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color: green;
+}
+body{
+    background-color: lightgreen;
+    position: relative;
+    padding: 20px;
+}
+img{
+    position: absolute;
+    right: 0;
+    margin: 10px;
+    
+}
+p{
+   text-align: justify;
+   margin-right: 300px;
+   
+}
+#jj{
+    text-align: justify;
+    margin: 10px;
+
+}
